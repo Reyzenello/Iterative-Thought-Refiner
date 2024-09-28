@@ -1,7 +1,8 @@
 # Iterative-Thought-Refiner
 
 Overview
-Iterative human engagement is an effective way to leverage the advanced language processing capabilities of large language models (LLMs).
+Iterative human engagement  - https://arxiv.org/abs/2303.17651 is an effective way to leverage the advanced language processing capabilities of large language models (LLMs).
+
 The Iteration of Thought (IoT) framework is proposed to enhance LLM responses by dynamically generating thought-provoking prompts based on the input query and the current LLM response.
 Unlike static or semi-static approaches, IoT adapts its reasoning path dynamically without discarding alternate exploratory thoughts.
 The three components of IoT are an Inner Dialogue Agent (IDA), an LLM Agent (LLMA), and an iterative prompting loop.
